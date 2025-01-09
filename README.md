@@ -1,16 +1,87 @@
-# my_class
+# First-Project-Flutter
 
-A new Flutter project.
+**First-Project-Flutter** is a beginner-friendly Flutter application designed to demonstrate fundamental concepts of Flutter development. This project helps you understand the basics of Flutter widgets, state management, navigation, and styling. It includes a simple user interface to display a list of items and provides functionality to view detailed information for each item.
+
+## Features
+
+- **Dynamic List Display**: A scrollable list of items with custom styling.
+- **Detail View**: Navigate to a detailed page to view more information about a selected item.
+- **Responsive UI**: The application adapts to different screen sizes and orientations.
+- **Beginner Friendly**: Simple code structure with comments to guide new developers.
+
+## Screenshot
+
+### Item List Screen
+![Item List Screen](assets/Screenshot%202025-01-09%20194706.png)
+
+### Detail View Screen
+![Detail View Screen male](assets/Screenshot%202025-01-09%20194823.png)
+![Detail View Screen female](assets/Screenshot%202025-01-09%20194918.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a starting point for learning Flutter development. Below are the steps to set up and run the project:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have the following tools installed:
+- Flutter SDK (version 3.0 or later)
+- Dart SDK
+- An IDE such as Android Studio, IntelliJ IDEA, or Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/First-Project-Flutter.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd First-Project-Flutter
+   ```
+
+3. Fetch the dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application on an emulator or physical device:
+   ```bash
+   flutter run
+   ```
+
+## Folder Structure
+
+```
+First-Project-Flutter/
+│
+├── lib/
+│   ├── main.dart           # Application entry point
+│   ├── models/             # Data models
+│   ├── screens/            # Screen components
+│   ├── widgets/            # Reusable UI widgets
+│
+├── assets/
+│   ├── images/             # Image assets
+│
+└── README.md               # Project documentation
+```
+
+## Resources
+
+To learn more about Flutter development, check out the following resources:
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+
+## Contributing
+
+This is a beginner-focused project, so contributions are welcome! Feel free to submit issues or pull requests to improve the project.
+
+---
+
+### About the Project
+This project is part of a learning journey in Flutter development. It aims to introduce beginners to core concepts while providing a solid foundation for future projects.
+
+Enjoy building with Flutter! 🚀
