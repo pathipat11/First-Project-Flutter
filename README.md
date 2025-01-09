@@ -15,8 +15,9 @@
 <img src="assets/Screenshot%202025-01-09%20194706.png" width="300">
 
 ### Detail View Screen
-![Detail View Screen male](assets/Screenshot%202025-01-09%20194823.png)
-![Detail View Screen female](assets/Screenshot%202025-01-09%20194918.png)
+<img src="assets/Screenshot%202025-01-09%20194823.png" width="150" height="auto">
+<img src="assets/Screenshot%202025-01-09%20194918.png" width="150" height="auto">
+
 
 ## Getting Started
 
